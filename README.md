@@ -11,8 +11,14 @@ In this competition, you are given a hypothetical fleet of drones, a list of cus
 ## My solution
 
 I modelled the problem as one of **assignment problem** in which **warehouses** serve as **sources** & **Delivery location** as **destinations**
+No. of warehouses in the order of 1000
+No. of drones in the order of 100
+No. of orders in the order of 10000
+
 ### Optimisation objective:
 Minimise total path cost of drones
 
 ## Algorithm Used:
 Minimum cost flow algorithm in networks
+
+## problem size

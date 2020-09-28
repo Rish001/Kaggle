@@ -22,3 +22,6 @@ Minimise total path cost of drones
 Minimum cost flow algorithm in networks
 
 ## problem size
+1. No. of warehouses in the order of 1000
+2. No. of drones in the order of 100
+3. No. of orders in the order of 10000
